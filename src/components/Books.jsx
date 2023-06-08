@@ -42,7 +42,7 @@ function Books() {
         <div>
           <input type="text" />
           <select>
-            <option value="action" selected>Action</option>
+            <option value="action" selected>Author</option>
             <option value="sci-fi">Sci-Fi</option>
             <option value="Economy">Economy</option>
           </select>
