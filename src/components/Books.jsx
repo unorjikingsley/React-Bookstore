@@ -39,7 +39,7 @@ function Books() {
             type="text"
             value={title}
             placeholder="title"
-            onChange={(e) => setAuthor(e.target.value)}
+            onChange={(e) => setTitle(e.target.value)}
             required
           />
 
