@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-// eslint-disable-next-line import/no-extraneous-dependencies
 import { useDispatch } from 'react-redux';
 import { deleteBook } from '../redux/slices/books/bookSlice';
 

@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import BookList from './BookList';
