@@ -120,8 +120,8 @@ Example:
 
 👤 **Unorji Kingsley**
 
-- GitHub: [@githubhandle](https://github.com/unorjikingsley)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/unorjikingsley)
+- GitHub: [Unorji Kingsley](https://github.com/unorjikingsley)
+- LinkedIn: [Unorji Kingsley](www.linkedin.com/in/unorjikingsley)
 
 <!-- 👤 **Author2**
 
