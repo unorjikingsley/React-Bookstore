@@ -25,8 +25,7 @@
 
 # 📖 [Bookstore App] <a name="about-project"></a>
 
-**[Math Magician Calculator]** - This is a website that shows mastery in React and Redux, JavaScript, HTML, CSS.
-
+**[Book-store app]** - This is a website that shows mastery in React and Redux, JavaScript, HTML, CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -134,12 +133,12 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+<!-- ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] **[UI]**
-- [ ] **[Functionality]**
+- [ ] **[Functionality]** -->
 <!-- - [ ] **[new_feature_3]** -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
