@@ -23,10 +23,9 @@
 - [📝 License](#license)
 
 
-# 📖 [Math Magician Calculator] <a name="about-project"></a>
+# 📖 [Bookstore App] <a name="about-project"></a>
 
-**[Math Magician Calculator]** - This is a website that shows mastery in React, JavaScript, HTML, CSS.
-
+**[Book-store app]** - This is a website that shows mastery in React and Redux, JavaScript, HTML, CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -42,9 +41,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[React/Javascript]**
+- **[React & Redux/Javascript]**
 - **[HTML]**
 - **[Router]**
 
@@ -136,13 +133,11 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
+ ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[UI]**
-- [ ] **[Functionality]**
-<!-- - [ ] **[new_feature_3]** -->
+- [ ] **[Functionality]** -->
+- [ ] **[State Management tools]** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +154,7 @@ Feel free to check the [issues page](https://github.com/unorjikingsley/react-mat
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project, please give it a star. Also, it would be great to suggest ways to make it better and I will definetly look into it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
