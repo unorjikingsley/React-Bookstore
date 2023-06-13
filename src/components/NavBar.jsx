@@ -12,6 +12,7 @@ function NavBar() {
       path: 'categories',
     },
   ];
+
   return (
     <nav>
       <h1>CMS&apos;s Bookstore</h1>
