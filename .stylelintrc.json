@@ -29,7 +29,7 @@
     "csstree/validator": true
   },
   "ignoreFiles": [
-    "build/**",
+    "src/**",
     "dist/**",
     "**/reset*.css",
     "**/bootstrap*.css",
