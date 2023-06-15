@@ -7,30 +7,24 @@ import { addBook } from '../redux/slices/books/bookSlice';
 function Books() {
   const { addMsg } = useSelector((store) => store.book);
   const dispatch = useDispatch();
+
   const [author, setAuthor] = useState('');
   const [title, setTitle] = useState('');
   const [cat, setCat] = useState('');
 
   return (
-    <div>
+    <div className="books">
       <BookList />
-      <div
-        style={{
-          width: '100%',
-          background: 'black',
-          height: '2px',
-          marginTop: '10px',
-          marginBottom: '10px',
-        }}
-      />
 
-      <form>
-        <h1>ADD NEW BOOK</h1>
-        <div>
+      <form className="form">
+        <div className="form-line" />
+        <h1 className="form-title">ADD NEW BOOK</h1>
+        <div className="form-body">
           <input
             type="text"
             value={author}
-            placeholder="author"
+            className="author"
+            placeholder="Author"
             onChange={(e) => setAuthor(e.target.value)}
             required
           />
@@ -38,19 +32,27 @@ function Books() {
           <input
             type="text"
             value={title}
-            placeholder="title"
+            placeholder="Title"
             onChange={(e) => setTitle(e.target.value)}
+            style={{
+              border: 'none',
+              padding: '.5em',
+              flex: 1,
+            }}
             required
           />
 
-          <select value={cat} onChange={(e) => setCat(e.target.value)}>
-            <option value="action">Fiction</option>
-            <option value="sci-fi">Non-Fiction</option>
-            <option value="Economy">Drama</option>
+          <select className="select" value={cat} onChange={(e) => setCat(e.target.value)}>
+            <option value="Fiction">Fiction</option>
+            <option value="sci-fi">Sci-fi</option>
+            <option value="Drama">Drama</option>
             <option value="Comedy">Comedy</option>
+            <option value="Romance">Romance</option>
+            <option value="action">action</option>
           </select>
 
           <button
+            className="submit"
             type="submit"
             onClick={async (e) => {
               e.preventDefault();
